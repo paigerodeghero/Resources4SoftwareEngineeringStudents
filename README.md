@@ -48,8 +48,14 @@ This is a guide to resources for software engineering students
 * [@housecor](https://twitter.com/housecor)
 * [@_developit](https://twitter.com/_developit)
 
-## Interview Practice
+## Interview Practice & Material
 * [Free practice interviews with real people](https://interviewing.io/) (Note: I have never used this personally)
+* [LeetCode](https://leetcode.com/)
+* [InterviewBit](https://www.interviewbit.com/)
+* [InterviewCake](https://www.interviewcake.com/)
+* [The Software Engineer’s Guide to Interviewing Software Engineers](https://blog.usejournal.com/the-software-engineers-guide-to-interviewing-software-engineers-980bbfdb4006)
+* [Top tips to prepare for software engineering interviews](https://www.hackerearth.com/blog/developers/top-tips-to-prepare-for-software-engineering-interviews)
+* [5 Tips for Acing a Software Engineering Job Interview](https://www.louisianajobconnection.com/blog/5-tips-for-acing-a-software-engineering-job-interview/)
 
 ## Fun 
 * [XKCD Comics](https://xkcd.com/)
