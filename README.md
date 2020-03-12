@@ -14,6 +14,7 @@ This is a guide to resources for software engineering students
 * Test Driven Development 
 * Rethinking Productivity in Software Engineering 
 * The Design of Every Day Things
+* Coders at Work
 
 ## TedTalks
 
