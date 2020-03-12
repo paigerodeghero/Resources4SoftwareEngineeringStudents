@@ -34,6 +34,7 @@ This is a guide to resources for software engineering students
 * [A delightful way to teach kids about computers - Linda Liukas](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)
 * [Everyday compassion at Google - Chade-Meng Tan](https://www.ted.com/talks/chade_meng_tan_everyday_compassion_at_google)
 * [A Computer that Works Like The Brain](https://www.ted.com/talks/kwabena_boahen_a_computer_that_works_like_the_brain?language=en)
+* [The Power of Introverts - Susan Cain](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
 
 
 ## Twitter Accounts to Follow
