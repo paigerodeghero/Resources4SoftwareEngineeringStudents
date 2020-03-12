@@ -38,7 +38,7 @@ This is a guide to resources for software engineering students
 * [3 Ways Good Design Makes You Happy - Don Norman](https://www.ted.com/talks/don_norman_3_ways_good_design_makes_you_happy?language=en)
 * [A delightful way to teach kids about computers - Linda Liukas](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)
 * [Everyday compassion at Google - Chade-Meng Tan](https://www.ted.com/talks/chade_meng_tan_everyday_compassion_at_google)
-* [A Computer that Works Like The Brain](https://www.ted.com/talks/kwabena_boahen_a_computer_that_works_like_the_brain?language=en)
+* [A Computer that Works Like The Brain - Kwabena Boahen](https://www.ted.com/talks/kwabena_boahen_a_computer_that_works_like_the_brain?language=en)
 * [The Power of Introverts - Susan Cain](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
 
 
