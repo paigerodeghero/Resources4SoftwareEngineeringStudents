@@ -15,6 +15,7 @@ This is a guide to resources for software engineering students
 * Rethinking Productivity in Software Engineering 
 * The Design of Every Day Things
 * Coders at Work
+* Dare to Lead 
 
 ## TedTalks
 
