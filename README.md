@@ -5,7 +5,7 @@ This is a guide to resources for software engineering students
 ## Remote Work Information for Software Engineers
 
 ## Blogs for Software Engineers
-* [Joel on Software] (https://www.joelonsoftware.com/)
+* [Joel on Software](https://www.joelonsoftware.com/)
 
 ## Books to Read
 * Mythical Man Month-Free online PDF
