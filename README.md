@@ -1,6 +1,3 @@
-# IN PROGRESS
-# IF YOU WANT CONTENT ADDED, OR KNOW OF GOOD CONTENT TO BE ADDED, PLEASE LET ME KNOW :) 
-
 # Resources for Software Engineering Students
 This is a guide to resources for software engineering students 
 (Orginally created for my 4720/6720 software engineering course at Clemson University)
