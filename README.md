@@ -18,7 +18,7 @@ This is a guide to resources for software engineering students
 * [Joel on Software](https://www.joelonsoftware.com/)
 
 ## Books to Read
-* [Mythical Man Month-FREE]()
+* [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?crid=24S0U89SE3U96&dchild=1&keywords=mythical+man+month&qid=1584036537&sprefix=mythical+man+month+hardcover%2Caps%2C134&sr=8-1)
 * [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_2?dchild=1&keywords=Pragmatic+Programmer&qid=1584036311&s=books&sr=1-2)
 * [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?dchild=1&keywords=Code+Complete&qid=1584036328&s=books&sr=1-1)
 * [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_3?dchild=1&keywords=Test+Driven+Development&qid=1584036342&s=books&sr=1-3)
