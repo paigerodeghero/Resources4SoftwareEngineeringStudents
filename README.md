@@ -37,4 +37,5 @@ This is a guide to resources for software engineering students
 
 ## Interview Practice
 
-## Fun Software Engineering Material
+## Fun 
+* [XKCD Comics](https://xkcd.com/)
