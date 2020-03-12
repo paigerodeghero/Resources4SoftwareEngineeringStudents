@@ -8,6 +8,7 @@ This is a guide to resources for software engineering students
 ## Keeping Up To Date as a Software Engineer
 * [Hacker News](https://news.ycombinator.com/)
 * [r/programming](https://www.reddit.com/r/programming/)
+* [Dev](https://dev.to/)
 
 ## Remote Work Information for Software Engineers
 * [On Working Remotely](https://blog.codinghorror.com/on-working-remotely/)
@@ -19,6 +20,8 @@ This is a guide to resources for software engineering students
 ## Blogs for Software Engineers
 * [Coding Horror](https://blog.codinghorror.com/)
 * [Joel on Software](https://www.joelonsoftware.com/)
+* [Scott Berkun](https://scottberkun.com/blog/)
+* [Pinterest Engineering](https://medium.com/@Pinterest_Engineering)
 
 ## Books to Read
 * [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?crid=24S0U89SE3U96&dchild=1&keywords=mythical+man+month&qid=1584036537&sprefix=mythical+man+month+hardcover%2Caps%2C134&sr=8-1)
