@@ -18,15 +18,14 @@ This is a guide to resources for software engineering students
 * [Joel on Software](https://www.joelonsoftware.com/)
 
 ## Books to Read
-* [Mythical Man Month-Free online PDF]()
-* [Clean Code]()
-* [Pragmatic Programmer]()
-* [Code Complete]()
-* [Test Driven Development]()
-* [Rethinking Productivity in Software Engineering]()
-* [The Design of Every Day Things]()
-* [Coders at Work]()
-* [Dare to Lead]() 
+* [Mythical Man Month-FREE]()
+* [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_2?dchild=1&keywords=Pragmatic+Programmer&qid=1584036311&s=books&sr=1-2)
+* [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?dchild=1&keywords=Code+Complete&qid=1584036328&s=books&sr=1-1)
+* [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_3?dchild=1&keywords=Test+Driven+Development&qid=1584036342&s=books&sr=1-3)
+* [Rethinking Productivity in Software Engineering - FREE](https://link.springer.com/book/10.1007/978-1-4842-4221-6)
+* [The Design of Every Day Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?dchild=1&keywords=the+design+of+everyday+things&qid=1584036456&sr=8-1)
+* [Coders at Work](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=sr_1_1?dchild=1&keywords=Coders+at+Work&qid=1584036474&s=books&sr=1-1)
+* [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/B07DJYFLX8/ref=sr_1_1?dchild=1&keywords=Dare+to+Lead&qid=1584036485&s=books&sr=1-1) 
 
 ## TedTalks
 * [3 Ways Good Design Makes You Happy - Don Norman](https://www.ted.com/talks/don_norman_3_ways_good_design_makes_you_happy?language=en)
