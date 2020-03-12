@@ -13,7 +13,7 @@ This is a guide to resources for software engineering students
 
 ## Remote Work Information for Software Engineers
 * [On Working Remotely](https://blog.codinghorror.com/on-working-remotely/)
-* [What I have learned from eight years of being a remote developer](What I have learned from eight years of being a remote developer)
+* [What I have learned from eight years of being a remote developer](https://dev.to/ivancrneto/what-i-have-learned-from-eight-years-of-being-a-remote-developer-3eob)
 * [Reflections on being a remote developer](https://www.freecodecamp.org/news/reflections-on-being-a-remote-developer-757465ed1e9e/)
 * [WFH 101: Tips and tricks from the home front as tech workers go remote during coronavirus crisis](https://www.geekwire.com/2020/tips-observations-home-front-tech-workers-go-remote-coronavirus-outbreak/)
 * [One Software Engineer Reveals What It’s *Really* Like to Be A Digital Nomad](https://www.glassdoor.com/blog/digital-nomad-invision/)
