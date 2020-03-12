@@ -28,9 +28,12 @@ This is a guide to resources for software engineering students
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/B07DJYFLX8/ref=sr_1_1?dchild=1&keywords=Dare+to+Lead&qid=1584036485&s=books&sr=1-1) 
 
 ## TedTalks
+* [A 12-year-old App Developer - Thomas Suarez](https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
+* [The Birth of the Computer - George Dyson](https://www.ted.com/talks/george_dyson_the_birth_of_the_computer?language=en)
 * [3 Ways Good Design Makes You Happy - Don Norman](https://www.ted.com/talks/don_norman_3_ways_good_design_makes_you_happy?language=en)
 * [A delightful way to teach kids about computers - Linda Liukas](https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers)
 * [Everyday compassion at Google - Chade-Meng Tan](https://www.ted.com/talks/chade_meng_tan_everyday_compassion_at_google)
+* [A Computer that Works Like The Brain](https://www.ted.com/talks/kwabena_boahen_a_computer_that_works_like_the_brain?language=en)
 
 
 ## Twitter Accounts to Follow
