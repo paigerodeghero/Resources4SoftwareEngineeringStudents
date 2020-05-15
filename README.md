@@ -36,6 +36,7 @@ This is a guide to resources for software engineering students
 * [The Design of Every Day Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?dchild=1&keywords=the+design+of+everyday+things&qid=1584036456&sr=8-1)
 * [Coders at Work](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=sr_1_1?dchild=1&keywords=Coders+at+Work&qid=1584036474&s=books&sr=1-1)
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/B07DJYFLX8/ref=sr_1_1?dchild=1&keywords=Dare+to+Lead&qid=1584036485&s=books&sr=1-1) 
+* [Producing Open Source Software, How to Run a Successful Free Software Project] (https://producingoss.com/)
 
 ## TedTalks
 * [A 12-year-old App Developer - Thomas Suarez](https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
