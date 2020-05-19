@@ -1,6 +1,5 @@
 # Resources for Software Engineering Students
 This is a guide to resources for software engineering students 
-(Orginally created for my 4720/6720 software engineering course at Clemson University)
 
 ## Where to Get Help & Ask Questions
 * [Stack Overflow](https://stackoverflow.com/questions)
