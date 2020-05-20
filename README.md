@@ -1,5 +1,5 @@
 # Resources for Software Engineering Students
-This is a guide to resources for software engineering students.  I'm currently a professor at Clemson University and a Visiting Researcher at Microsoft Research.  I focus a lot of my work on onboarding newcomers and remote work.  These are resources inspired both by my research and by my industry experience. 
+This is a guide to resources for software engineering students.  I'm currently a professor at Clemson University and a Visiting Researcher at Microsoft Research.  A significant part of my research focuses on onboarding newcomers and remote work.  These are resources inspired both by my research and by my industry experience. 
 
 ## Where to Get Help & Ask Questions
 * [Stack Overflow](https://stackoverflow.com/questions)
