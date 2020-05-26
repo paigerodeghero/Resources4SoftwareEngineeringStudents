@@ -37,6 +37,10 @@ This is a guide to resources for software engineering students.  I'm currently a
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/B07DJYFLX8/ref=sr_1_1?dchild=1&keywords=Dare+to+Lead&qid=1584036485&s=books&sr=1-1) 
 * [Producing Open Source Software, How to Run a Successful Free Software Project](https://producingoss.com/)
 
+## Podcasts
+* [Software Engineering Daily](https://softwareengineeringdaily.com/)
+* [Coding Blocks](https://www.codingblocks.net/)
+
 ## TedTalks
 * [A 12-year-old App Developer - Thomas Suarez](https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
 * [The Birth of the Computer - George Dyson](https://www.ted.com/talks/george_dyson_the_birth_of_the_computer?language=en)
