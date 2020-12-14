@@ -36,6 +36,8 @@ This is a guide to resources for software engineering students.  I'm currently a
 * [Coders at Work](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=sr_1_1?dchild=1&keywords=Coders+at+Work&qid=1584036474&s=books&sr=1-1)
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/B07DJYFLX8/ref=sr_1_1?dchild=1&keywords=Dare+to+Lead&qid=1584036485&s=books&sr=1-1) 
 * [Producing Open Source Software, How to Run a Successful Free Software Project](https://producingoss.com/)
+* [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+* [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain)
 
 ## Podcasts
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
