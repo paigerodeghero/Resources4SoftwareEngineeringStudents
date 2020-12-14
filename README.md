@@ -38,6 +38,7 @@ This is a guide to resources for software engineering students.  I'm currently a
 * [Producing Open Source Software, How to Run a Successful Free Software Project](https://producingoss.com/)
 * [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 * [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain)
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 
 ## Podcasts
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
