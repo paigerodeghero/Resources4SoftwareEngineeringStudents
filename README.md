@@ -1,5 +1,5 @@
 # Resources for Software Engineering Students
-This is a guide to resources for software engineering students. A significant part of my research focuses on onboarding newcomers and remote work.  These are resources are inspired by my academic, research, and industry experience. 
+This is a guide to resources for software engineering students. A significant part of my research focuses on onboarding newcomers and remote work.  These resources are inspired by my academic, research, and industry experience. 
 
 ## Where to Get Help & Ask Questions
 * [Stack Overflow](https://stackoverflow.com/questions)
