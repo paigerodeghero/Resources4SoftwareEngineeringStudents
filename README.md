@@ -8,6 +8,7 @@ This is a guide to resources for software engineering students. A significant pa
 * [Hacker News](https://news.ycombinator.com/)
 * [r/programming](https://www.reddit.com/r/programming/)
 * [Dev](https://dev.to/)
+* [Joel on Software](https://www.joelonsoftware.com/)
 
 ## Remote Work Information for Software Engineers
 * [On Working Remotely](https://blog.codinghorror.com/on-working-remotely/)
@@ -24,12 +25,15 @@ This is a guide to resources for software engineering students. A significant pa
 * [Slack Blog](https://slack.engineering/)
 * [Steve Yegge](http://steve-yegge.blogspot.com/)
 * [Scott Hanselman](https://www.hanselman.com/blog/)
+* [Austin Henley](A study guide for software engineering students)
 
 ## Books to Read
-* [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?crid=24S0U89SE3U96&dchild=1&keywords=mythical+man+month&qid=1584036537&sprefix=mythical+man+month+hardcover%2Caps%2C134&sr=8-1)
+* [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+*  [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?crid=24S0U89SE3U96&dchild=1&keywords=mythical+man+month&qid=1584036537&sprefix=mythical+man+month+hardcover%2Caps%2C134&sr=8-1)
 * [Cooperative Software Development - FREE](https://faculty.washington.edu/ajko/books/cooperative-software-development/)
 * [Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_2?dchild=1&keywords=Pragmatic+Programmer&qid=1584036311&s=books&sr=1-2)
 * [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?dchild=1&keywords=Code+Complete&qid=1584036328&s=books&sr=1-1)
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=guru990f-20&geniuslink=true)  
 * [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_3?dchild=1&keywords=Test+Driven+Development&qid=1584036342&s=books&sr=1-3)
 * [Rethinking Productivity in Software Engineering - FREE](https://link.springer.com/book/10.1007/978-1-4842-4221-6)
 * [The Design of Every Day Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?dchild=1&keywords=the+design+of+everyday+things&qid=1584036456&sr=8-1)
@@ -41,8 +45,12 @@ This is a guide to resources for software engineering students. A significant pa
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
 
 ## Podcasts
+* [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
+* [Hansel Minutes](https://www.hanselminutes.com/)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 * [Coding Blocks](https://www.codingblocks.net/)
+* [Command_Line Heros](https://www.redhat.com/en/command-line-heroes)
+
 
 ## TedTalks
 * [A 12-year-old App Developer - Thomas Suarez](https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
