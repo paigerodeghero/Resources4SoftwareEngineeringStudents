@@ -25,7 +25,7 @@ This is a guide to resources for software engineering students. A significant pa
 * [Slack Blog](https://slack.engineering/)
 * [Steve Yegge](http://steve-yegge.blogspot.com/)
 * [Scott Hanselman](https://www.hanselman.com/blog/)
-* [Austin Henley](A study guide for software engineering students)
+* [A study guide for software engineering students](https://austinhenley.com/blog/sestudyguide.html)
 
 ## Books to Read
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
