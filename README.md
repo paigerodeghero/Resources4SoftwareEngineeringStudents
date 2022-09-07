@@ -83,3 +83,4 @@ This is a guide to resources for software engineering students. A significant pa
 
 ## Fun 
 * [XKCD Comics](https://xkcd.com/)
+* https://www.reddit.com/r/ProgrammerHumor/comments/x72c8l/stop_doing_open_source/
