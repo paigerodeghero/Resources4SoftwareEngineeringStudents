@@ -78,6 +78,8 @@ This is a guide to resources for software engineering students. A significant pa
 * [Top tips to prepare for software engineering interviews](https://www.hackerearth.com/blog/developers/top-tips-to-prepare-for-software-engineering-interviews)
 * [5 Tips for Acing a Software Engineering Job Interview](https://www.louisianajobconnection.com/blog/5-tips-for-acing-a-software-engineering-job-interview/)
 * [AlgoMonster](https://algo.monster/)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
 
 ## Fun 
 * [XKCD Comics](https://xkcd.com/)
