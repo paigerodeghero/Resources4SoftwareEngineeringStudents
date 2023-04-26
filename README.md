@@ -80,6 +80,8 @@ This is a guide to resources for software engineering students. A significant pa
 * [AlgoMonster](https://algo.monster/)
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
+## Things you should already know
+* [Git commands](https://www.atlassian.com/git/glossary)
 
 ## Fun 
 * [XKCD Comics](https://xkcd.com/)
