@@ -27,6 +27,7 @@ This is a guide to resources for software engineering students. A significant pa
 * [Scott Hanselman](https://www.hanselman.com/blog/)
 * [A study guide for software engineering students](https://austinhenley.com/blog/sestudyguide.html)
 * [Scaler Blogs](https://www.scaler.com/blog/)
+* [Applied AI Blogs](https://www.appliedaicourse.com/blog/)
 
 ## Books to Read
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
@@ -80,6 +81,7 @@ This is a guide to resources for software engineering students. A significant pa
 * [5 Tips for Acing a Software Engineering Job Interview](https://www.louisianajobconnection.com/blog/5-tips-for-acing-a-software-engineering-job-interview/)
 * [AlgoMonster](https://algo.monster/)
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
+* [Applied AI - Interview Guide](https://www.appliedaicourse.com/blog/?s=Interview)
 
 ## Things you should already know
 * [Git commands](https://www.atlassian.com/git/glossary)
